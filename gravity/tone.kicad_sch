@@ -826,7 +826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "114171a4-4cca-4354-b250-f907d8642dc3")
-		(property "Reference" "VOL"
+		(property "Reference" "VOL1"
 			(at 90.17 60.9599 0)
 			(effects
 				(font
@@ -883,7 +883,7 @@
 		(instances
 			(project "gravity"
 				(path "/aa56c72d-d58e-465d-9854-f9d2b610c8e6/c5d4d34a-f0e5-4d7f-9edb-fbac8bc75ba1"
-					(reference "VOL")
+					(reference "VOL1")
 					(unit 1)
 				)
 			)
@@ -899,7 +899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11d4c691-e3d4-48dc-bfbd-f217967e484f")
-		(property "Reference" "RT"
+		(property "Reference" "RT1"
 			(at 62.23 39.3699 0)
 			(effects
 				(font
@@ -956,7 +956,7 @@
 		(instances
 			(project ""
 				(path "/aa56c72d-d58e-465d-9854-f9d2b610c8e6/c5d4d34a-f0e5-4d7f-9edb-fbac8bc75ba1"
-					(reference "RT")
+					(reference "RT1")
 					(unit 1)
 				)
 			)
@@ -1150,10 +1150,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "637b7e9b-4d5f-4056-8f6e-77bc2641fe2b")
+			(uuid "637b7e9b-4d5f-4056-8f6e-77bc2641fe2c")
 		)
 		(pin "1"
-			(uuid "3c3f957e-ee92-4a2a-82be-805c40e4d666")
+			(uuid "3c3f957e-ee92-4a2a-82be-805c40e4d667")
 		)
 		(instances
 			(project ""
@@ -1288,10 +1288,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "637b7e9b-4d5f-4056-8f6e-77bc2641fe2b")
+			(uuid "637b7e9b-4d5f-4056-8f6e-77bc2641fe2d")
 		)
 		(pin "1"
-			(uuid "3c3f957e-ee92-4a2a-82be-805c40e4d666")
+			(uuid "3c3f957e-ee92-4a2a-82be-805c40e4d668")
 		)
 		(instances
 			(project ""
@@ -1312,7 +1312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c236eb7c-50b5-4709-bbfb-b6b0c5b07280")
-		(property "Reference" "RB"
+		(property "Reference" "RB1"
 			(at 62.23 62.2299 0)
 			(effects
 				(font
@@ -1369,7 +1369,7 @@
 		(instances
 			(project ""
 				(path "/aa56c72d-d58e-465d-9854-f9d2b610c8e6/c5d4d34a-f0e5-4d7f-9edb-fbac8bc75ba1"
-					(reference "RB")
+					(reference "RB1")
 					(unit 1)
 				)
 			)
@@ -1385,7 +1385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c92fda10-e2a7-40d3-9717-b7c9f12c5752")
-		(property "Reference" "RM"
+		(property "Reference" "RM1"
 			(at 67.31 77.4699 0)
 			(effects
 				(font
@@ -1442,7 +1442,7 @@
 		(instances
 			(project ""
 				(path "/aa56c72d-d58e-465d-9854-f9d2b610c8e6/c5d4d34a-f0e5-4d7f-9edb-fbac8bc75ba1"
-					(reference "RM")
+					(reference "RM1")
 					(unit 1)
 				)
 			)
@@ -1503,7 +1503,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "49de3549-2044-45e1-9ab3-24de8b4fa5fd")
+			(uuid "49de3549-2044-45e1-9ab3-24de8b4fa5fe")
 		)
 		(instances
 			(project ""

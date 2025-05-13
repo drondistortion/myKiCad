@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4967094"
-     inkscape:cx="592.63343"
-     inkscape:cy="85.520946"
+     inkscape:zoom="1.0583334"
+     inkscape:cx="529.60627"
+     inkscape:cy="194.64566"
      inkscape:window-width="1918"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="true" />
   <defs
      id="defs1" />
   <g
@@ -39,205 +40,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="use17"
-       transform="translate(-29.127158,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect25"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle25"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle26"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle27"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="use18"
-       transform="translate(-3.068821,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect27"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle28"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle29"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle30"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="use20"
-       transform="translate(51.164514,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect33"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle34"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle35"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle36"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="use21"
-       transform="translate(77.752018,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect36"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle37"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle38"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle39"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="use22"
-       transform="translate(104.33945,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect39"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle40"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle41"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle42"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="use23"
-       transform="translate(137.80614,-17.122194)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect42"
-         width="11.5"
-         height="11.5"
-         x="61.253124"
-         y="50.440075" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle43"
-         cx="61.253124"
-         cy="50.440075"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle44"
-         cx="61.253124"
-         cy="50.440075"
-         r="12.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle45"
-         cx="72.753128"
-         cy="50.440075"
-         r="1" />
-    </g>
-    <g
-       id="g60"
-       transform="translate(-13.229169)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect45"
-         width="11.5"
-         height="11.5"
-         x="232.50932"
-         y="32.875919" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle46"
-         cx="232.50932"
-         cy="32.875919"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle46-2"
-         cx="244.14162"
-         cy="32.743629"
-         r="3.5" />
-    </g>
-    <g
        id="use25"
-       transform="translate(189.39361,-17.122194)">
+       transform="translate(186.21859,-17.122194)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
          id="rect48"
@@ -263,157 +67,359 @@
          cx="72.753128"
          cy="50.440075"
          r="1" />
+      <circle
+         style="fill:none;stroke:#999999;stroke-width:0.264583"
+         id="path1"
+         cx="61.25312"
+         cy="50.440075"
+         r="9" />
     </g>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="28.751467"
-       y="54.502781"
-       id="text51"><tspan
-         sodipodi:role="line"
-         id="tspan51"
-         style="stroke-width:0.264583"
-         x="28.751467"
-         y="54.502781">LIGHT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="54.761234"
-       y="52.877697"
-       id="text52"><tspan
-         sodipodi:role="line"
-         id="tspan52"
-         style="stroke-width:0.264583"
-         x="54.761234"
-         y="52.877697">VOL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="106.82679"
-       y="51.502625"
-       id="text54"><tspan
-         sodipodi:role="line"
-         id="tspan54"
-         style="stroke-width:0.264583"
-         x="106.82679"
-         y="51.502625">BASS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="133.95331"
-       y="52.002651"
-       id="text55"><tspan
-         sodipodi:role="line"
-         id="tspan55"
-         style="stroke-width:0.264583"
-         x="133.95331"
-         y="52.002651">MID</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="163.45482"
-       y="52.127659"
-       id="text56"><tspan
-         sodipodi:role="line"
-         id="tspan56"
-         style="stroke-width:0.264583"
-         x="163.45482"
-         y="52.127659">HIGH</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="193.41875"
-       y="51.127609"
-       id="text57"><tspan
-         sodipodi:role="line"
-         id="tspan57"
-         style="stroke-width:0.264583"
-         x="193.41875"
-         y="51.127609">GAIN</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="247.85931"
-       y="50.252563"
+       style="font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="248.05255"
+       y="17.141151"
        id="text58"><tspan
          sodipodi:role="line"
          id="tspan58"
-         style="stroke-width:0.264583"
-         x="247.85931"
-         y="50.252563">IN</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="228.71591"
-       y="51.031746"
-       id="text59"><tspan
-         sodipodi:role="line"
-         id="tspan59"
-         style="stroke-width:0.264583"
-         x="228.71591"
-         y="51.031746">NG</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="215.67784"
-       y="51.325844"
-       id="text60"><tspan
-         sodipodi:role="line"
-         id="tspan60"
-         style="stroke-width:0.264583"
-         x="215.67784"
-         y="51.325844">CD</tspan></text>
-    <g
-       id="g60-6"
-       transform="rotate(90,161.25706,-37.802068)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="rect45-1"
-         width="11.5"
-         height="13.235417"
-         x="232.50932"
-         y="31.140505" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle46-29"
-         cx="232.37703"
-         cy="31.008213"
-         r="3.5" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-         id="circle46-2-3"
-         cx="232.37703"
-         cy="44.508209"
-         r="3.5" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="90.301949"
-       y="53.901287"
-       id="text59-1"><tspan
-         sodipodi:role="line"
-         id="tspan59-9"
-         style="stroke-width:0.264583"
-         x="90.301949"
-         y="53.901287">TS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="77.084717"
-       y="54.195389"
-       id="text60-4"><tspan
-         sodipodi:role="line"
-         id="tspan60-7"
-         style="stroke-width:0.264583"
-         x="77.084717"
-         y="54.195389">CC</tspan></text>
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+         x="245.6496"
+         y="17.141151">SIN</tspan></text>
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
        id="rect60"
        width="245"
        height="29.523212"
        x="18.424944"
-       y="19.688566" />
+       y="19.688566"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect60-7"
+       width="245"
+       height="44.735416"
+       x="18.424944"
+       y="12.082464"
+       sodipodi:insensitive="true" />
+    <g
+       id="g13"
+       transform="translate(3.7041668)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text56"><tspan
+           sodipodi:role="line"
+           id="tspan56"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">SCREAM</tspan></text>
+      <g
+         id="g4"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect1"
+           width="11.5"
+           height="11.5"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle1"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle2"
+           cx="61.253124"
+           cy="50.440075"
+           r="12.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle3"
+           cx="72.753128"
+           cy="50.440075"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#999999;stroke-width:0.264583"
+           id="circle4"
+           cx="61.25312"
+           cy="50.440075"
+           r="9" />
+      </g>
+    </g>
+    <g
+       id="g35"
+       transform="translate(-28.045832)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text25"><tspan
+           id="tspan25"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151"
+           sodipodi:role="line">PAIN</tspan></text>
+      <g
+         id="g34"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect26"
+           width="11.5"
+           height="11.5"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle31"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle32"
+           cx="61.253124"
+           cy="50.440075"
+           r="12.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle33"
+           cx="72.753128"
+           cy="50.440075"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#999999;stroke-width:0.264583"
+           id="circle34"
+           cx="61.25312"
+           cy="50.440075"
+           r="9" />
+      </g>
+    </g>
+    <g
+       id="g39"
+       transform="translate(-59.795834)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text35"><tspan
+           sodipodi:role="line"
+           id="tspan35"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">GUTS</tspan></text>
+      <g
+         id="g38"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect35"
+           width="11.5"
+           height="11.5"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle35"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle36"
+           cx="61.253124"
+           cy="50.440075"
+           r="12.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle37"
+           cx="72.753128"
+           cy="50.440075"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#999999;stroke-width:0.264583"
+           id="circle38"
+           cx="61.25312"
+           cy="50.440075"
+           r="9" />
+      </g>
+    </g>
+    <g
+       id="g47"
+       transform="translate(29.633334)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text43"><tspan
+           sodipodi:role="line"
+           id="tspan43"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">CORPSE</tspan></text>
+      <g
+         id="g46"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect43"
+           width="3.5"
+           height="3.5000002"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle43"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+      </g>
+    </g>
+    <g
+       id="g49"
+       transform="translate(-89.958337)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text47"><tspan
+           sodipodi:role="line"
+           id="tspan47"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">CRUST</tspan></text>
+      <g
+         id="g48"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect47"
+           width="3.5"
+           height="3.5000002"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle47"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+      </g>
+    </g>
+    <g
+       id="g56"
+       transform="translate(-120.12085)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text49"><tspan
+           sodipodi:role="line"
+           id="tspan49"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">GRAVE</tspan></text>
+      <g
+         id="g55"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect49"
+           width="11.5"
+           height="11.5"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle52"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle53"
+           cx="61.253124"
+           cy="50.440075"
+           r="12.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle54"
+           cx="72.753128"
+           cy="50.440075"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#999999;stroke-width:0.264583"
+           id="circle55"
+           cx="61.25312"
+           cy="50.440075"
+           r="9" />
+      </g>
+    </g>
+    <g
+       id="g65"
+       transform="translate(-159.80839)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="192.17595"
+         y="17.141151"
+         id="text61"><tspan
+           sodipodi:role="line"
+           id="tspan61"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+           x="192.17595"
+           y="17.141151">BONE</tspan></text>
+      <g
+         id="g64"
+         transform="translate(130.92282,-17.122194)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="rect61"
+           width="11.5"
+           height="11.5"
+           x="61.253124"
+           y="50.440075" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle61"
+           cx="61.253124"
+           cy="50.440075"
+           r="3.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle62"
+           cx="61.253124"
+           cy="50.440075"
+           r="12.5" />
+        <circle
+           style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           id="circle63"
+           cx="72.753128"
+           cy="50.440075"
+           r="1" />
+        <circle
+           style="fill:none;stroke:#999999;stroke-width:0.264583"
+           id="circle64"
+           cx="61.25312"
+           cy="50.440075"
+           r="9" />
+      </g>
+    </g>
+    <circle
+       id="path2"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="123.74999"
+       cy="65.25"
+       r="0.033299759" />
   </g>
 </svg>

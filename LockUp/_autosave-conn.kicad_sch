@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "29672026-5bf2-4931-806a-3408852e97e0")
 	(paper "A4")
+	(title_block
+		(date "2025-06-05")
+		(rev "0.0.1")
+		(company "Ornex")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names

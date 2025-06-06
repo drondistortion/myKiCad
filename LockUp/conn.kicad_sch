@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "29672026-5bf2-4931-806a-3408852e97e0")
 	(paper "A4")
+	(title_block
+		(title "Ornex Z-Lock")
+		(date "2025-06-05")
+		(rev "0.0.3")
+		(company "Ornex")
+		(comment 1 "Схема питания")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
@@ -1956,7 +1963,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 52.07) (xy 152.4 63.5)
+			(xy 152.4 55.88) (xy 152.4 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1986,7 +1993,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 50.8) (xy 144.78 55.88)
+			(xy 144.78 53.34) (xy 144.78 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +2103,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 43.18) (xy 152.4 46.99)
+			(xy 152.4 43.18) (xy 152.4 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2206,6 +2213,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 45.72) (xy 144.78 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef8edffa-54d8-476a-863f-3ac294ff2a6f")
+	)
+	(wire
+		(pts
 			(xy 144.78 63.5) (xy 152.4 63.5)
 		)
 		(stroke
@@ -2249,6 +2266,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2386,7 +2404,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 57.912 57.15 90)
 			(effects
 				(font
@@ -2453,6 +2471,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2619,6 +2638,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2685,7 +2705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 135.382 46.99 90)
 			(effects
 				(font
@@ -2904,6 +2924,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2952,10 +2973,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "715a07ad-c247-4fcd-bc35-bfb27bae100c")
 		(property "Reference" "Q2"
-			(at 59.69 36.83 90)
+			(at 59.944 39.116 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,6 +2988,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
@@ -3020,7 +3041,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 144.78 46.99 0)
+		(at 144.78 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3028,14 +3049,6 @@
 		(dnp no)
 		(uuid "757eba75-3898-4216-9844-46c33732f859")
 		(property "Reference" "R4"
-			(at 148.59 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "560k"
 			(at 148.59 48.26 0)
 			(effects
 				(font
@@ -3043,8 +3056,16 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 143.002 46.99 90)
+		(property "Value" "560k"
+			(at 148.59 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 143.002 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3053,7 +3074,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 46.99 0)
+			(at 144.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3062,7 +3083,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 144.78 46.99 0)
+			(at 144.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3070,7 +3091,7 @@
 			)
 		)
 		(property "LCSC Part #" "C101109"
-			(at 144.78 46.99 0)
+			(at 144.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3118,6 +3139,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3319,6 +3341,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3361,7 +3384,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 152.4 49.53 0)
+		(at 152.4 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3369,7 +3392,7 @@
 		(dnp no)
 		(uuid "ce7e40bc-66a9-4a8e-b813-ef1c07487990")
 		(property "Reference" "C2"
-			(at 154.94 48.26 0)
+			(at 154.94 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3378,7 +3401,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 154.94 50.8 0)
+			(at 154.94 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3386,8 +3409,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 152.4 49.53 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 152.4 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3396,7 +3419,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 49.53 0)
+			(at 152.4 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3405,7 +3428,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 152.4 49.53 0)
+			(at 152.4 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3413,7 +3436,7 @@
 			)
 		)
 		(property "LCSC Part #" "C59461"
-			(at 152.4 49.53 0)
+			(at 152.4 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3531,7 +3554,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 87.63 48.26 0)
 			(effects
 				(font
@@ -3606,7 +3629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 143.002 59.69 90)
 			(effects
 				(font

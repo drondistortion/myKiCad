@@ -5482,16 +5482,6 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 39.37) (xy 243.84 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28a42a86-4715-41e7-ac22-286c7f63fdcd")
-	)
-	(wire
-		(pts
 			(xy 76.2 125.73) (xy 76.2 129.54)
 		)
 		(stroke
@@ -5752,17 +5742,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 41.91) (xy 262.89 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "519e7a5e-7bec-4ce9-996d-2ac7f2d2e655")
-	)
-	(wire
-		(pts
-			(xy 243.84 41.91) (xy 241.3 41.91)
+			(xy 241.3 41.91) (xy 262.89 41.91)
 		)
 		(stroke
 			(width 0)
@@ -6092,6 +6072,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 34.29) (xy 247.65 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79671d92-e3b1-4492-adab-a1790bad16f6")
+	)
+	(wire
+		(pts
 			(xy 138.43 152.4) (xy 140.97 152.4)
 		)
 		(stroke
@@ -6339,6 +6329,16 @@
 			(type default)
 		)
 		(uuid "9649ffa7-f915-4b68-9bd0-28a57beaad75")
+	)
+	(wire
+		(pts
+			(xy 247.65 39.37) (xy 262.89 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f2426a-a99c-44a1-96a1-ac8a40e3e57a")
 	)
 	(wire
 		(pts
@@ -6772,16 +6772,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 34.29) (xy 247.65 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d67ab6fe-64d7-46b4-86a6-697b135ce63e")
-	)
-	(wire
-		(pts
 			(xy 69.85 115.57) (xy 77.47 115.57)
 		)
 		(stroke
@@ -7049,16 +7039,6 @@
 			(type default)
 		)
 		(uuid "f951522c-0eb3-4079-a24a-af7137d7316c")
-	)
-	(wire
-		(pts
-			(xy 243.84 39.37) (xy 243.84 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f956a6f0-248e-4585-a1b7-1d2a8f6afc57")
 	)
 	(wire
 		(pts
@@ -12899,7 +12879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 110.49 22.86 0)
 			(effects
 				(font
